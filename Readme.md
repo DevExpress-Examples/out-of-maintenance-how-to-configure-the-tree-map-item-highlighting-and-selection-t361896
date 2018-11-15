@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HighlightingAndSelection/Form1.cs) (VB: [Form1.vb](./VB/HighlightingAndSelection/Form1.vb))
+* [Program.cs](./CS/HighlightingAndSelection/Program.cs) (VB: [Program.vb](./VB/HighlightingAndSelection/Program.vb))
+<!-- default file list end -->
 # How to configure the tree map item highlighting and selection
 
 
